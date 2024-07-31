@@ -94,7 +94,7 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(images/blackbg.png);
+  background: url(images/blackbg.webp);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
